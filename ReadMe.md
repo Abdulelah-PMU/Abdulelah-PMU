@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulelah-b-al-bisher-a2595a2a2
+
 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abd-alilah87@hotmail.com) 
 
 # 💻 Tech Stack:
